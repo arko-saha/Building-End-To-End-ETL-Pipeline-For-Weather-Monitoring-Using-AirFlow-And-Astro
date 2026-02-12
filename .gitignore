@@ -1,0 +1,17 @@
+.git
+.env
+.DS_Store
+airflow_settings.yaml
+docker-compose.override.yml
+.astro/
+logs/
+__pycache__/
+**/*.py[cod]
+.venv/
+astro
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+.pytest_cache/
+.ipynb_checkpoints/
